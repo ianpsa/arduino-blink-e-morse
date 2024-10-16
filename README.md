@@ -11,6 +11,8 @@
 
 Veja o vídeo abaixo com a placa em funcionamento:
 
+https://github.com/user-attachments/assets/63b6a7e2-0643-465e-be25-b3181280b833
+
 ## 1.2. Blinker Externo
 
 <div align="center" width="100%">
@@ -23,6 +25,9 @@ Aqui está disponíveil o link do TinkerCad Para o projeto do Blinker Externo [L
 
 Veja o vídeo abaixo com a placa em funcionamento:
 
+https://github.com/user-attachments/assets/cf415def-3932-48f9-bd0e-cccb3fe262dc
+
+
 ## 1.3. Morse code
 
 &nbsp;&nbsp;&nbsp;&nbsp;Após algumas pesquisas consegui produzir um circuito que a partir do código em C produz a representação sonora de "Kizzy" em morse code.
@@ -30,3 +35,5 @@ Veja o vídeo abaixo com a placa em funcionamento:
 [Veja o código do morse](Código/morseCode.ino)
 
 Veja o vídeo abaixo com a placa em funcionamento:
+
+https://github.com/user-attachments/assets/9f95c2d5-ff40-4b1c-8479-4450bfd1c103
